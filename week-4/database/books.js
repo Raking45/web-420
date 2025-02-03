@@ -6,7 +6,7 @@
  */
 
 // Require the Collection class
-const Collection = require("./collection");
+const Collection = require("../database/collection");
 
 // Array of book objects
 const books = new Collection([
