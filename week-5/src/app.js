@@ -2,7 +2,8 @@
 Name: Robert King
 Date: February 9, 2025
 File Name: app.js
-Description:  API PUT Endpoint and Error Handling using TDD Principles.
+Description:  API POST and DELETE Endpoint and Error Handling using TDD Principles.
+(API PUT Endpoint and Error Handling Using TDD Principles for Week 6 Included)
 */
 
 const express=require("express");
