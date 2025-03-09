@@ -8,8 +8,8 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "node ./src/app",
-    "dev": "nodemon ./src/app"
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
   },
   "author": "Professor Krasso",
   "license": "MIT",
