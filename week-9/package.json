@@ -9,7 +9,7 @@
   "scripts": {
     "test": "jest",
     "start": "node ./src/app",
-    "dev": "nodemon ./bin/www"
+    "dev": "nodemon ./src/app"
   },
   "author": "Professor Krasso",
   "license": "MIT",
