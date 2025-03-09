@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "node ./bin/www",
+    "start": "node ./src/app",
     "dev": "nodemon ./bin/www"
   },
   "author": "Professor Krasso",
